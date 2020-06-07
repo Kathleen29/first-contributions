@@ -348,6 +348,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Daneel Rakow](https://github.com/daneelrakow)
 - [Jonathan Raxa](https://github.com/jonathanraxa/)
 - [Jordan Miracle](https://github.com/jordanmiracle)
+- [Kathleen](https://github.com/kathleen29)
 - [Sophie](https://github.com/sophiawa)
 - [Dhanesh Shetty](https://github.com/DhaneshShetty)
 - [Udit Singhania](https://github.com/udisinghania)
